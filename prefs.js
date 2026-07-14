@@ -1,6 +1,6 @@
 /*
  * Sync external monitor brightness with daylight cycles via DDC/CI.
- * Copyright (C) 2026 chickendrop89
+ * Copyright (C) 2026 chkndrp
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by

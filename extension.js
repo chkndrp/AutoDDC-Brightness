@@ -65,9 +65,6 @@ class AutoDDC extends QuickSettings.SystemIndicator {
     }
 
     destroy() {
-        if (QuickSettingsMenu)
-            QuickSettingsMenu.removeExternalIndicator(this);
-
         this._autoDDCToggle?.destroy();
         super.destroy();
     }

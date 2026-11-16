@@ -1,14 +1,14 @@
 {
   "name": "AutoDDC Brightness",
-  "description": "A simple gnome extension to automatically adjust external monitor brightness via DDC/CI based on local sunrise and sunset times",
   "uuid": "autoddc@chkndrp.github.com",
-  "shell-version": [
-    "49", "50", "51"
-  ],
+  "description": "A simple gnome extension to automatically adjust external monitor brightness via DDC/CI based on local sunrise and sunset times",
+  "url": "https://github.com/chkndrp/AutoDDC-Brightness",
   "donations": {
     "kofi": "chkndrp"
   },
-  "url": "https://github.com/chkndrp/AutoDDC-Brightness",
+  "shell-version": [
+    "49", "50", "51"
+  ],
   "settings-schema": "org.gnome.shell.extensions.autoddc",
   "session-modes": ["user", "unlock-dialog"],
   "version-name": "1.0",

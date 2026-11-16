@@ -11,6 +11,6 @@
   ],
   "settings-schema": "org.gnome.shell.extensions.autoddc",
   "session-modes": ["user", "unlock-dialog"],
-  "version-name": "1.0",
-  "version": 1
+  "version-name": "1.1",
+  "version": 11
 }

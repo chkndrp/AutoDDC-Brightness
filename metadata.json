@@ -5,8 +5,12 @@
   "shell-version": [
     "49", "50", "51"
   ],
+  "donations": {
+    "kofi": "chkndrp"
+  },
   "url": "https://github.com/chkndrp/AutoDDC-Brightness",
   "settings-schema": "org.gnome.shell.extensions.autoddc",
   "session-modes": ["user", "unlock-dialog"],
+  "version-name": "1.0",
   "version": 1
 }

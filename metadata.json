@@ -7,5 +7,6 @@
   ],
   "url": "https://github.com/chkndrp/AutoDDC-Brightness",
   "settings-schema": "org.gnome.shell.extensions.autoddc",
+  "session-modes": ["user", "unlock-dialog"],
   "version": 1
 }
